@@ -1,0 +1,74 @@
+==================================================
+YOLO VIDEO ANALYSIS REPORT
+==================================================
+Video    : Screen Recording 2026-06-15 133902.mp4
+Duration : 0:18
+Unique objects detected: 11
+
+DETECTIONS (sorted by frequency):
+--------------------------------------------------
+Object    : elephant
+Frames    : 162
+First seen: 0:00
+Confidence: 91%
+Crop saved: detections\elephant.jpg
+
+Object    : cow
+Frames    : 36
+First seen: 0:00
+Confidence: 88%
+Crop saved: detections\cow.jpg
+
+Object    : dog
+Frames    : 17
+First seen: 0:04
+Confidence: 59%
+Crop saved: detections\dog.jpg
+
+Object    : sheep
+Frames    : 12
+First seen: 0:10
+Confidence: 70%
+Crop saved: detections\sheep.jpg
+
+Object    : bear
+Frames    : 10
+First seen: 0:16
+Confidence: 94%
+Crop saved: detections\bear.jpg
+
+Object    : horse
+Frames    : 9
+First seen: 0:12
+Confidence: 90%
+Crop saved: detections\horse.jpg
+
+Object    : cat
+Frames    : 5
+First seen: 0:03
+Confidence: 81%
+Crop saved: detections\cat.jpg
+
+Object    : bird
+Frames    : 2
+First seen: 0:10
+Confidence: 57%
+Crop saved: detections\bird.jpg
+
+Object    : person
+Frames    : 1
+First seen: 0:08
+Confidence: 46%
+Crop saved: detections\person.jpg
+
+Object    : giraffe
+Frames    : 1
+First seen: 0:13
+Confidence: 71%
+Crop saved: detections\giraffe.jpg
+
+Object    : kite
+Frames    : 1
+First seen: 0:15
+Confidence: 46%
+Crop saved: detections\kite.jpg
